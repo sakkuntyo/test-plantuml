@@ -1,6 +1,6 @@
 ## what's this
 
-This repositori for checking plantuml display via pegmatite
+This repository for checking plantuml display via pegmatite
 
 ## Operating environment
 
